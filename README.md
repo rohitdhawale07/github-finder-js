@@ -1,5 +1,5 @@
 # github-finder-js
-## Hosted Link :-
+## Hosted Link :- https://rohitdhawale07.github.io/github-finder-js/
 ## Overview
 The GitHub Finder project is a simple web application that allows users to search for GitHub profiles  
 and view detailed information about users and their repositories. 
